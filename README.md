@@ -51,7 +51,7 @@ Ce projet permet donc de reproduire les bases d’un système de détection d’
 
 
 
-# Environnement de travail
+# Environnement de travail 
 
 ## Virtualisation
 Le projet a été réalisé dans un environnement virtualisé sous VirtualBox.
